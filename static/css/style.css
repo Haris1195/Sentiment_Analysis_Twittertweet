@@ -1,0 +1,112 @@
+.nav-bg{
+    background-color: #1E025B;
+}
+.nav-text{
+    color: #ffffff;
+}
+
+.about-img{
+    width: 100%;
+    height: 450px;
+}
+
+.about-h4{
+    color: #BDBBBB;
+    font-size: 18px;
+    font-weight: bold;
+
+}
+.about-center{
+    text-align: center;
+    margin-top: 250px;
+}
+
+.home-bg{
+    background-color: #7737F2;
+    height: 560px;
+}
+.home-left{
+    padding-top: 100px;
+    padding-left: 70px;
+    font-size: 46px;
+    font-weight: bold;
+}
+
+.home-btn{
+    color: #ffffff;
+    border: 1px solid white;
+    background-color: #7737F2;
+    font-size: large;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 30px;
+}
+.home-btn:hover{
+    color: black;
+    border: 1px solid white;
+    background-color: #ffffff;
+    
+}
+
+.home-card{
+    margin: 0%;
+    width: 100%;
+}
+
+.home-img{
+    height: 560px;
+}
+.card{
+    border: none;
+    
+}
+
+.contact-heading{
+    text-align: center;
+    margin-top: 40px;
+}
+
+
+
+
+/* copy css  */
+.contact-btn{
+    border: 1px solid #7737F2;
+    padding: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    color: #ffffff;
+    background-color: #7737F2;
+}
+.contact-btn:hover{
+    color: #ffffff;
+    background-color: #1E025B;
+}
+.contact-bg{
+    background-color: #F2F2F2;
+}
+
+
+.login-heading{
+    justify-content: center;
+}
+
+.l2{
+
+    font-size: xx-large;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.l3{
+    font-style: italic;
+    text-decoration: none;
+    color: #7737F2;
+}
+.l3:hover{
+    font-weight: bold;
+    text-decoration: underline;
+    color: #7737F2;
+}

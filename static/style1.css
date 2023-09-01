@@ -1,0 +1,54 @@
+body{
+    background-color: #780D2D;
+}
+.navbar{
+    position: fixed;
+    top: 0%;
+}
+.back{
+    background-color: #780D2D;
+}
+.white{
+    color: white;
+}
+.white:hover{
+    color: white;
+}
+.nav-link{
+    color: white;
+}
+
+.emoji{
+    width: 75px;
+    height: 75px;
+    margin-right: 50px;
+}
+.navbar{
+    position: fixed;
+    top: 0%;
+}
+.btn{
+    width: 200px;
+
+    color: white;
+    border: 1px solid white;
+}
+.btn:hover{
+    width: 200px;
+    
+    
+    color: white;
+    border: 1px solid white;
+}
+.yellow{
+    color: yellow;
+}
+.green{
+    color: green;
+}
+.red{
+    color: red;
+}
+.MT{
+    margin-top: 20px;
+}
